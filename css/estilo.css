@@ -1,0 +1,257 @@
+body {
+    background-color: #FFF8F5;
+    color: #72565F;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #F2D6DC;
+    padding: 15px;
+}
+
+.navbar-brand {
+    font-family: Georgia, serif;
+    font-size: 32px;
+    color: #72565F;
+    font-style: italic;
+}
+
+.nav-link {
+    color: #72565F;
+}
+
+.banner {
+    background-color: #F2D6DC;
+    text-align: center;
+    padding: 60px 20px;
+    margin-bottom: 35px;
+}
+
+.banner h1 {
+    font-family: Georgia, serif;
+    font-size: 36px;
+}
+
+.banner p {
+    font-size: 18px;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    color: #72565F;
+}
+
+.card {
+    border: 1px solid #F2D6DC;
+    border-radius: 15px;
+    overflow: hidden;
+    height: 100%;
+    background-color: white;
+}
+
+.card-img-top {
+    height: 230px;
+    object-fit: cover;
+}
+
+.card-title {
+    color: #72565F;
+}
+
+.preco {
+    color: #72565F;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-aura {
+    background-color: #C98F9F;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn-aura:hover {
+    background-color: #72565F;
+    color: white;
+}
+
+.form-control, .form-select {
+    border-color: #C98F9F;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #F2D6DC;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.foto-produto {
+    width: 100%;
+    max-height: 500px;
+    object-fit: contain;
+    border-radius: 15px;
+    border: 1px solid #F2D6DC;
+}
+
+.categoria-produto {
+    color: #72856A;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-outline-secondary {
+    color: #72565F;
+    border-color: #C98F9F;
+    border-radius: 8px;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #F2D6DC;
+    color: #72565F;
+    border-color: #C98F9F;
+}
+
+.caixa-formulario {
+    max-width: 450px;
+    margin: 50px auto;
+    padding: 35px;
+    background-color: white;
+    border: 1px solid #F2D6DC;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(114, 86, 95, 0.08);
+}
+
+.caixa-formulario h2 {
+    margin-bottom: 15px;
+}
+
+.caixa-formulario a {
+    color: #72565F;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.caixa-formulario a:hover {
+    text-decoration: underline;
+}
+
+.form-control:focus {
+    border-color: #C98F9F;
+    box-shadow: 0 0 0 3px #F2D6DC;
+}
+
+.caixa-carrinho {
+    background-color: white;
+    border: 1px solid #F2D6DC;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.foto-carrinho {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.quantidade-carrinho {
+    width: 80px;
+}
+
+.table {
+    --bs-table-color: #72565F;
+    --bs-table-border-color: #F2D6DC;
+}
+
+.table thead th {
+    background-color: #F2D6DC;
+    color: #72565F;
+}
+
+.btn-remover {
+    background-color: #F2D6DC;
+    color: #72565F;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn-remover:hover {
+    background-color: #C98F9F;
+    color: white;
+}
+
+.alerta-aura {
+    background-color: #F2D6DC;
+    color: #72565F;
+    border: 1px solid #C98F9F;
+    border-radius: 8px;
+}
+
+.caixa-carrinho h4 {
+    font-family: Georgia, serif;
+    color: #72565F;
+}
+
+.caixa-finalizar {
+    max-width: 550px;
+    margin: 50px auto;
+    padding: 35px;
+    background-color: white;
+    border: 1px solid #F2D6DC;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(114, 86, 95, 0.08);
+}
+
+.opcao-pagamento {
+    border: 1px solid #F2D6DC;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #FFF8F5;
+}
+
+.opcao-pagamento input {
+    accent-color: #C98F9F;
+    margin-right: 10px;
+}
+
+.opcao-pagamento label {
+    cursor: pointer;
+}
+
+.caixa-finalizar hr {
+    border-color: #C98F9F;
+}
+
+.caixa-finalizar h5 {
+    color: #72565F;
+    font-family: Georgia, serif;
+}
+
+.caixa-admin {
+    background-color: white;
+    border: 1px solid #F2D6DC;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 4px 15px rgba(114, 86, 95, 0.08);
+}
+
+.caixa-admin h4 {
+    font-family: Georgia, serif;
+    color: #72565F;
+}
+
+.foto-admin {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.caixa-admin .table {
+    margin-bottom: 0;
+}
