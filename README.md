@@ -48,3 +48,10 @@ Cadastre uma conta pelo site e altere o campo tipo do usuário para admin na tab
 ## Observação
 
 Este projeto possui finalidade educacional. Os pagamentos são simulados e não envolvem transações financeiras reais.
+
+## Requisitos do sistema
+
+- PHP 8 ou superior
+- MySQL ou MariaDB
+- Apache (XAMPP)
+- Navegador web
