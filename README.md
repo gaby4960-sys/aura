@@ -16,6 +16,7 @@ O objetivo do projeto é desenvolver um e-commerce funcional, utilizando PHP e M
 - PDO
 - XAMPP
 - Git e GitHub
+- JavaScript
 
 ## Funcionalidades
 
@@ -30,6 +31,8 @@ O objetivo do projeto é desenvolver um e-commerce funcional, utilizando PHP e M
 - Painel administrativo
 - Cadastro, edição e exclusão de produtos
 - Visualização de pedidos
+- Validação de formulários com JavaScript
+- Confirmação antes de excluir produtos
 
 ## Como executar o projeto
 

@@ -399,8 +399,7 @@ $produtos = $conexao->query(
 
                                     </a>
 
-                                    <form method="POST"
-                                          onsubmit="return confirm('Deseja excluir este produto?');">
+                                    <form method="POST" class="form-excluir">
 
                                         <input type="hidden"
                                                name="id"
@@ -437,6 +436,7 @@ $produtos = $conexao->query(
 <footer>
     Aura - Velas Aromáticas © 2026
 </footer>
+<script src="../script.js"></script>
 
 </body>
 </html>

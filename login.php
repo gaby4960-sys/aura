@@ -127,6 +127,7 @@ if (isset($_POST['entrar'])) {
 <footer>
     Aura - Velas Aromáticas © 2026
 </footer>
+<script src="script.js"></script>
 
 </body>
 </html>

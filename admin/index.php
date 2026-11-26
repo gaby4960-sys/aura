@@ -87,6 +87,7 @@ if (($_SESSION['usuario_tipo'] ?? '') !== 'admin') {
 <footer>
     Aura - Velas Aromáticas © 2026
 </footer>
+<script src="../script.js"></script>
 
 </body>
 </html>

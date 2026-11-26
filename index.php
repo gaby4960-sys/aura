@@ -179,6 +179,7 @@ $produtos = $consulta->fetchAll(PDO::FETCH_ASSOC);
         Aura - Velas Aromáticas © 2026
     </p>
 </footer>
+<script src="script.js"></script>
 
 </body>
 </html>
