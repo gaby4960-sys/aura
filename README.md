@@ -58,3 +58,17 @@ Este projeto possui finalidade educacional. Os pagamentos são simulados e não 
 - MySQL ou MariaDB
 - Apache (XAMPP)
 - Navegador web
+
+## Construção do sistema
+
+**Identidade visual:** criação de uma interface delicada, com tons suaves e elementos florais, seguindo a proposta da loja de velas aromáticas.
+
+**Vitrine:** organização das velas por categorias, apresentação das imagens, descrições e preços.
+
+**Sistema de compras:** integração do cadastro de clientes, carrinho, formas de pagamento e controle de estoque.
+
+**Administração:** gerenciamento dos produtos e acompanhamento dos pedidos realizados.
+
+**Testes:** verificação das páginas, conexão com o banco de dados e funcionamento dos recursos em JavaScript.
+
+Esta seção foi adicionada após a implementação para documentar o desenvolvimento do projeto.
